@@ -16,6 +16,18 @@ const App = () => {
         { id: 1, name: 'Two Sum', link: 'https://leetcode.com/problems/two-sum/', category: 'Arrays', solved: false },
         { id: 2, name: 'Best Time to Buy and Sell Stock', link: 'https://leetcode.com/problems/best-time-to-buy-and-sell-stock/', category: 'Arrays', solved: false },
         { id: 3, name: 'Longest Substring Without Repeating Characters', link: 'https://leetcode.com/problems/longest-substring-without-repeating-characters/', category: 'Strings', solved: false },
+        { id: 4, name: 'Best Time to Buy and Sell Stock', link: 'https://leetcode.com/problems/best-time-to-buy-and-sell-stock/', category: 'Arrays', solved: false },
+        { id: 5, name: 'Best Time to Buy and Sell Stock', link: 'https://leetcode.com/problems/best-time-to-buy-and-sell-stock/', category: 'Arrays', solved: false },
+        { id: 6, name: 'Best Time to Buy and Sell Stock', link: 'https://leetcode.com/problems/best-time-to-buy-and-sell-stock/', category: 'Arrays', solved: false },
+        { id: 7, name: 'Best Time to Buy and Sell Stock', link: 'https://leetcode.com/problems/best-time-to-buy-and-sell-stock/', category: 'Arrays', solved: false },
+        { id: 8, name: 'Best Time to Buy and Sell Stock', link: 'https://leetcode.com/problems/best-time-to-buy-and-sell-stock/', category: 'Arrays', solved: false },
+        { id: 9, name: 'Best Time to Buy and Sell Stock', link: 'https://leetcode.com/problems/best-time-to-buy-and-sell-stock/', category: 'Arrays', solved: false },
+        { id: 10, name: 'Best Time to Buy and Sell Stock', link: 'https://leetcode.com/problems/best-time-to-buy-and-sell-stock/', category: 'Arrays', solved: false },
+        { id: 11, name: 'Best Time to Buy and Sell Stock', link: 'https://leetcode.com/problems/best-time-to-buy-and-sell-stock/', category: 'Arrays', solved: false },
+        { id: 12, name: 'Longest Substring Without Repeating Characters', link: 'https://leetcode.com/problems/longest-substring-without-repeating-characters/', category: 'Strings', solved: false },
+        { id: 13, name: 'Longest Substring Without Repeating Characters', link: 'https://leetcode.com/problems/longest-substring-without-repeating-characters/', category: 'Strings', solved: false },
+        { id: 14, name: 'Longest Substring Without Repeating Characters', link: 'https://leetcode.com/problems/longest-substring-without-repeating-characters/', category: 'Strings', solved: false },
+        { id: 15, name: 'Longest Substring Without Repeating Characters', link: 'https://leetcode.com/problems/longest-substring-without-repeating-characters/', category: 'Strings', solved: false },
         // Add more questions here
       ];
       setQuestions(data);
