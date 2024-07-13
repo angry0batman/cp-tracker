@@ -1,0 +1,9 @@
+.dropdown {
+    margin-bottom: 20px;
+  }
+  
+  .dropdown select {
+    padding: 10px;
+    font-size: 1em;
+  }
+  
